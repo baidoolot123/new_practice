@@ -12,3 +12,6 @@ print('as salam aleikym')
 # что то и отправить 
 
  #Я получил ваши изменения. Тоже оставляю свой коммент в вашем документе. Байдоолот
+# yes i did it
+print('i did it')
+# practice practice again practice
