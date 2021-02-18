@@ -7,3 +7,4 @@ print('Message')
 #git commit -m "Comment"
 #git push origin baidoolot(название своей ветви)
 print("my code Sultan")
+print('as salam aleikym')
